@@ -1,0 +1,28 @@
+name: Update Active Days Badge
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Count Active Days
+        id: streak
+        run: |
+          days=$(curl -s https://github-contributions-api.jogruber.de/v4/ziya-tn | jq '.contributions | map(select(.count > 0)) | map(.date) | reverse | reduce .[] as $item (0; if (. == 0 or (now - ( $item | fromdate ) <= 86400 * .)) then .+1 else 0 end)')
+          echo "days=$days" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i "s/🔥%20Days%20Active-[0-9]\+%20Days/🔥%20Days%20Active-${{ env.days }}%20Days/" README.md
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "update active days badge"
+          git push
