@@ -2,7 +2,7 @@
   <img src="/assets/completing-tasks-while-hearing-music.gif" width="450"/>
 </p>
 
-<h1 align="center">Hi there <img src="/assets/hello-world-in-multiple-languages.gif" width="40"/> — I'm Ziya Shalbuzov</h1>
+<h1 align="center">Hi there <img src="/assets/hello-world-in-multiple-languages.gif" width="450"/> — I'm Ziya Shalbuzov</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;CS+Student+at+Baku+State+University;Learning+at+tetym.space;Developer+%7C+Pentester+%7C+Learner" alt="Typing SVG" />
