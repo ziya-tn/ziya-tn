@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="/assets/.keep/completing-tasks-while-hearing-music.gif" width="720"/>
+  <img src="/assets/completing-tasks-while-hearing-music.gif" width="720"/>
 </p>
 
 # Hi — I'm Ziya Shalbuzov 👋
 <p align="left">
-  <img src="/assets/.keep/hello-world-in-multiple-languages.gif" width="220" style="vertical-align:middle"/>
+  <img src="/assets/hello-world-in-multiple-languages.gif" width="220" style="vertical-align:middle"/>
   <strong>Hi, I'm Ziya — CS student at Baku State University, learning cybersecurity at <a href="https://www.tetym.space">tetym.space</a>.</strong>
 </p>
 
@@ -52,7 +52,7 @@
 
 ## Cybersecurity
 <p>
-  <img src="/assets/.keep/blue-black-hacker.gif" width="300"/>
+  <img src="/assets/blue-black-hacker.gif" width="300"/>
 </p>
 
 I work on practical security labs, vulnerability hunting, and small red-team tooling. You can find my TryHackMe profile and writeups linked above.
@@ -61,7 +61,7 @@ I work on practical security labs, vulnerability hunting, and small red-team too
 
 ## Programming & Projects
 <p>
-  <img src="/assets/.keep/coding-cat.gif" width="260"/>
+  <img src="/assets/coding-cat.gif" width="260"/>
 </p>
 
 I create small projects in C++ and Python and automate tasks with Bash.
@@ -75,5 +75,5 @@ I create small projects in C++ and Python and automate tasks with Bash.
 ![Snake animation](https://github.com/ziya-tn/ziya-tn/blob/output/github-contribution-grid-snake.svg)
 
 <p>
-  <img src="/assets/.keep/dinosaur-game.gif" width="380"/>
+  <img src="/assets/dinosaur-game.gif" width="380"/>
 </p>
