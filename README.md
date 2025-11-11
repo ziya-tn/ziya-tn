@@ -91,14 +91,18 @@ Most of my work focuses on security automation, reconnaissance scripts, and pers
 ---
 
 ### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziya-tn&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziya-tn&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ziya-tn&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&rank_icon=github" height="160" />
+  <img src="https://streak-stats.demolab.com?user=ziya-tn&theme=tokyonight&hide_border=true&border_radius=20" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziya-tn&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ziya-tn&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziya-tn&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ziya-tn&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
@@ -108,8 +112,8 @@ Most of my work focuses on security automation, reconnaissance scripts, and pers
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ziya-tn&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Days%20in%20a%20Row%20Active-🔥%20{{DAYS_IN_A_ROW}}%20Days-red?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ziya-tn&color=blueviolet&style=flat-square" alt="Profile views" />  
+  <img src="https://img.shields.io/badge/🔥%20Days%20Active-42%20Days-orange?style=flat-square" alt="Days Active" />
 </p>
 
 <p align="center">
