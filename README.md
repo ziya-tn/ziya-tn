@@ -2,40 +2,40 @@
   <img src="/assets/completing-tasks-while-hearing-music.gif" width="720"/>
 </p>
 
-# Hi — I'm Ziya Shalbuzov 👋
-<p align="left">
-  <img src="/assets/hello-world-in-multiple-languages.gif" width="220" style="vertical-align:middle"/>
-  <strong>Hi, I'm Ziya — CS student at Baku State University, learning cybersecurity at <a href="https://www.tetym.space">tetym.space</a>.</strong>
+<h1 align="center">Hi — I'm Ziya Shalbuzov 👋</h1>
+
+<p align="center">
+  <img src="/assets/hello-world-in-multiple-languages.gif" width="180"/>
+</p>
+
+<p align="center">
+  🎓 Computer Science student at <b>Baku State University</b> <br>
+  🔒 Studying Cybersecurity at <a href="https://www.tetym.space" target="_blank">tetym.space</a> <br>
+  💻 Passionate about programming, hacking, and building useful tools
 </p>
 
 ---
 
-## About me
-- 🎓 Computer Science student — Baku State University  
-- 🔒 Cybersecurity enthusiast & student at tetym.space  
-- 💻 I love coding and building practical pentest tools and scripts  
-- 🐍 I also enjoy snake games (see Activity below)
+### 🌐 Accounts
+<p align="center">
+  <a href="https://github.com/ziya-tn"><img src="https://img.shields.io/badge/GitHub-ziya--tn-181717?logo=github&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/ziyatn"><img src="https://img.shields.io/badge/TryHackMe-ziyatn-2E8B57?logo=tryhackme&logoColor=white" /></a>
+  <a href="https://x.com/ziyatnsh"><img src="https://img.shields.io/badge/X-ziyatnsh-000000?logo=x&logoColor=white" /></a>
+</p>
 
 ---
 
-## Accounts
-- GitHub: https://github.com/ziya-tn  
-- TryHackMe: https://tryhackme.com/p/ziyatn  
-- X (Twitter): https://x.com/ziyatnsh
+### ⚙️ Skills
 
----
-
-## Skills
-
-### Programming
-<p>
+#### Programming
+<p align="center">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white" />
 </p>
 
-### Tools & Pentest Toolkit
-<p>
+#### Tools & Pentesting
+<p align="center">
   <img alt="Nmap" src="https://img.shields.io/badge/Nmap-7DD7CF?logo=nmap&logoColor=black" />
   <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-FF6A00?logo=metasploit&logoColor=white" />
   <img alt="Hydra" src="https://img.shields.io/badge/Hydra-0066CC?logo=hydra&logoColor=white" />
@@ -50,30 +50,34 @@
 
 ---
 
-## Cybersecurity
-<p>
+### 🧠 Cybersecurity
+<p align="center">
   <img src="/assets/blue-black-hacker.gif" width="300"/>
 </p>
 
-I work on practical security labs, vulnerability hunting, and small red-team tooling. You can find my TryHackMe profile and writeups linked above.
+I focus on network reconnaissance, vulnerability discovery, and ethical hacking.  
+You can find my TryHackMe progress and security writeups in my profiles above.
 
 ---
 
-## Programming & Projects
-<p>
+### 💻 Programming & Projects
+<p align="center">
   <img src="/assets/coding-cat.gif" width="260"/>
 </p>
 
-I create small projects in C++ and Python and automate tasks with Bash.
+I develop C++ and Python tools for automation, security testing, and task optimization.  
+Always exploring new ways to combine creativity and cybersecurity.
 
 ---
 
-## Activity & Fun
+### 🕹️ Activity & Fun
 
-🐍 **Snake**
+🐍 **GitHub Snake**
 
-![Snake animation](https://github.com/ziya-tn/ziya-tn/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/ziya-tn/ziya-tn/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
-<p>
-  <img src="/assets/dinosaur-game.gif" width="380"/>
+<p align="center">
+  <img src="/assets/dinosaur-game.gif" width="400"/>
 </p>
