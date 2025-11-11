@@ -3,6 +3,9 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */12 * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
@@ -14,13 +17,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Generate snake animation
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ziya-tn
           outputs: |
             dist/github-contribution-grid-snake.svg
-      - name: Push snake animation to output branch
+      - name: Push Snake Animation to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
