@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="/assets/hello-world-in-multiple-languages.gif" width="160"/>
+  <img src="/assets/hello-world-in-multiple-languages.gif" width="400"/>
 </p>
 
 <p align="center">
