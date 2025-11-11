@@ -133,7 +133,9 @@
 ---
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ziyatn.png" alt="TryHackMe Badge" />
+  <a href="https://tryhackme.com/p/ziyatn">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ziyatn.png" alt="TryHackMe Badge" />
+  </a>
 </p>
 
 <p align="center">
