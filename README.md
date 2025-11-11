@@ -1,24 +1,30 @@
 <p align="center">
-  <img src="assets/completing-tasks-while-hearing-music.gif" width="700"/>
+  <img src="assets/completing-tasks-while-hearing-music.gif" width="750"/>
 </p>
 
-<h1 align="center">Hi there <img src="assets/hello-world-in-multiple-languages.gif" width="65"/> — I'm Ziya Shalbuzov</h1>
-<h3 align="center">Cybersecurity Enthusiast & Computer Science Student</h3>
+<h1 align="center">
+  Hi there <img src="assets/hello-world-in-multiple-languages.gif" width="70"/> — I'm Ziya Shalbuzov
+</h1>
+<h3 align="center">💻 Cybersecurity Enthusiast & Computer Science Student</h3>
 
 <p align="center">
   <a href="https://github.com/ziya-tn"><img src="https://img.shields.io/badge/GitHub-ziya--tn-black?logo=github&style=for-the-badge"></a>
   <a href="https://tryhackme.com/p/ziyatn"><img src="https://img.shields.io/badge/TryHackMe-ziyatn-red?logo=tryhackme&style=for-the-badge"></a>
   <a href="https://x.com/ziyatnsh"><img src="https://img.shields.io/badge/Twitter-ziyatnsh-1DA1F2?logo=x&style=for-the-badge"></a>
+  <a href="https://open.spotify.com/user/31weqhovlklgd62imzflsxjvazem"><img src="https://img.shields.io/badge/Spotify-Ziya_Shalbuzov-1DB954?logo=spotify&style=for-the-badge"></a>
 </p>
 
----
+<p align="center">
+  <img src="assets/gradient-line.gif" width="700"/>
+</p>
 
 ### 💡 About Me
-- 🎓 **Computer Science** student at *Baku State University*
-- 🧠 **Cybersecurity** student at [tetym.space](https://www.tetym.space)
-- 💻 Passionate about **programming**, **pentesting**, and **automating recon tools**
-- 🧩 Love solving **CTFs** and exploring network security
-- 🐈‍⬛ Often coding alongside my cat <img src="assets/coding-cat.gif" width="35" align="center"/>
+
+- 🎓 **Computer Science** student at *Baku State University*  
+- 🧠 **Cybersecurity** student at [tetym.space](https://www.tetym.space)  
+- 🧩 Passionate about **pentesting**, **recon automation**, and **security tools**  
+- 🐍 Building small scripts to make security research more efficient  
+- 🐈‍⬛ Often coding alongside my cat <img src="assets/coding-cat.gif" width="40" align="center"/>
 
 ---
 
@@ -29,25 +35,19 @@
   <img src="https://skillicons.dev/icons?i=nmap,netcat,github,vscode" />
 </p>
 
----
-
 <p align="center">
   <img src="assets/fading-line.gif" width="600"/>
 </p>
 
 ### 🔒 Cybersecurity & Development
 <p align="center">
-  <img src="assets/blue-black-hacker.gif" width="270"/>
+  <img src="assets/blue-black-hacker.gif" width="260"/>
 </p>
 
 Most of my work focuses on **security automation**, **reconnaissance scripts**, and **penetration testing tools**.  
-Explore my repositories → [github.com/ziya-tn?tab=repositories](https://github.com/ziya-tn?tab=repositories)
+📂 Explore my repositories → [github.com/ziya-tn?tab=repositories](https://github.com/ziya-tn?tab=repositories)
 
 ---
-
-<p align="center">
-  <img src="assets/gradient-line.gif" width="600"/>
-</p>
 
 ### 📊 GitHub Analytics
 <p align="center">
@@ -71,7 +71,7 @@ Explore my repositories → [github.com/ziya-tn?tab=repositories](https://github
 </p>
 
 <p align="center">
-  <img src="assets/cat-and-mouse.gif" width="250"/>
+  <img src="assets/cat-and-mouse.gif" width="240"/>
 </p>
 
 ---
@@ -105,7 +105,7 @@ Explore my repositories → [github.com/ziya-tn?tab=repositories](https://github
 ---
 
 <p align="center">
-  <img src="assets/happy-coder.gif" width="300"/>
+  <img src="assets/happy-coder.gif" width="320"/>
 </p>
 
 <p align="center">
