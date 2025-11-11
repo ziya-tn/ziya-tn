@@ -1,28 +1,38 @@
-name: Update Active Days Badge
+name: Update Activity Badge
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  update:
+  update-activity:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Count Active Days
+      - name: Fetch activity data
         id: streak
         run: |
-          days=$(curl -s https://github-contributions-api.jogruber.de/v4/ziya-tn | jq '.contributions | map(select(.count > 0)) | map(.date) | reverse | reduce .[] as $item (0; if (. == 0 or (now - ( $item | fromdate ) <= 86400 * .)) then .+1 else 0 end)')
-          echo "days=$days" >> $GITHUB_ENV
+          days=$(curl -s https://github-readme-streak-stats.herokuapp.com/?user=ziya-tn | grep -oP '(?<=data-streak-current=")[0-9]+')
+          echo "days=$days" >> $GITHUB_OUTPUT
 
-      - name: Update README
+      - name: Create badge
         run: |
-          sed -i "s/🔥%20Days%20Active-[0-9]\+%20Days/🔥%20Days%20Active-${{ env.days }}%20Days/" README.md
+          days=${{ steps.streak.outputs.days }}
+          echo "<svg xmlns='http://www.w3.org/2000/svg' width='170' height='28'>
+          <rect width='170' height='28' fill='orange' rx='4'/>
+          <text x='10' y='19' font-size='14' fill='white'>🔥 $days days active</text>
+          </svg>" > days-active.svg
+
+      - name: Commit & Push
+        run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "update active days badge"
+          git add days-active.svg
+          git commit -m "Updated days-active badge" || echo "No changes"
           git push
