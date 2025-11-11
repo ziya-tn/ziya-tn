@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="/assets/completing-tasks-while-hearing-music.gif" width="720" />
+  <img src="/assets/completing-tasks-while-hearing-music.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Ziya Shalbuzov 👋</h1>
+# Hi — I'm Ziya Shalbuzov 👋
 
 <p align="center">
   <img src="/assets/hello-world-in-multiple-languages.gif" width="180" />
@@ -10,20 +10,26 @@
 
 <p align="center">
   🎓 Computer Science — <strong>Baku State University</strong> &nbsp; • &nbsp;
-  🛡️ Cybersecurity student at <a href="https://www.tetym.space" target="_blank">tetym.space</a> <br/>
+  🛡️ Cybersecurity student at <a href="https://www.tetym.space" target="_blank">tetym.space</a><br/>
   💻 C++ / Python / Bash • pentesting • automation
+</p>
+
+<p align="center">
+  <img src="/assets/fading-line.gif" width="640" />
 </p>
 
 ---
 
-## 🧠 About me
-- I build small pentest tools, automation scripts, and CTF writeups.  
+## About me
+- I build practical pentesting tools, automation scripts, and CTF writeups.  
 - I enjoy hands-on security labs, network analysis, and web vulnerability hunting.  
-- I code while listening to music and like to keep my environment tidy and reproducible.
+- I code while listening to music and focus on reproducible environments.
 
----
+<p align="center">
+  <img src="/assets/gradient-line.gif" width="640" />
+</p>
 
-## 🌐 Where to find me
+## Where to find me
 <p align="center">
   <a href="https://github.com/ziya-tn"><img src="https://img.shields.io/badge/GitHub-ziya--tn-181717?logo=github&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/ziyatn"><img src="https://img.shields.io/badge/TryHackMe-ziyatn-2E8B57?logo=tryhackme&logoColor=white" /></a>
@@ -32,7 +38,7 @@
 
 ---
 
-## ⚙️ Skills
+## Skills
 
 ### Programming
 <p align="center">
@@ -54,54 +60,54 @@
   <img alt="Sherlock" src="https://img.shields.io/badge/Sherlock-101820?logo=github&logoColor=white" />
 </p>
 
----
-
-## 🔐 Cybersecurity
 <p align="center">
-  <img src="/assets/blue-black-hacker.gif" width="300" />
+  <img src="/assets/fading-line.gif" width="640" />
 </p>
 
-I work on network reconnaissance, automated scanning, and web security. Writeups and lab notes are on my GitHub.
-
----
-
-## 💻 Projects & highlights
+## Cybersecurity
 <p align="center">
-  <img src="/assets/coding-cat.gif" width="240" />
+  <img src="/assets/blue-black-hacker.gif" width="320" />
 </p>
 
-- Featured projects (pinned on my profile): tools for automation, small scanners, and CTF writeups.  
-- If you'd like, I can add a short showcase block with links + one-line descriptions of each project.
+I focus on network reconnaissance, vulnerability discovery, and ethical hacking.  
+Writeups, labs and tools are in my repositories.
 
----
-
-## 📊 GitHub & activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziya-tn&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziya-tn&theme=tokyonight&hide_border=true" height="160" />
+  <img src="/assets/gradient-line.gif" width="640" />
 </p>
 
+## Projects & highlights
 <p align="center">
-  <img src="https://github.com/ziya-tn/ziya-tn/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="/assets/coding-cat.gif" width="260" />
+</p>
+
+- Featured projects pinned on my profile: automation scripts, scanners, and CTF writeups.  
+- Browse all repos: <a href="https://github.com/ziya-tn?tab=repositories">https://github.com/ziya-tn?tab=repositories</a>
+
+<p align="center">
+  <img src="/assets/cat-and-mouse.gif" width="520" />
 </p>
 
 ---
 
-## ✨ Something cool
-- "Now learning" progress:
-  <p align="center">
-    <img src="https://img.shields.io/badge/Web%20Security-In%20Progress-yellow" />
-    <img src="https://img.shields.io/badge/Reverse%20Engineering-Learning-orange" />
-  </p>
+## GitHub & activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ziya-tn&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziya-tn&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-- Quick links:
-  <p align="center">
-    <a href="mailto:ziya@example.com"><img src="https://img.shields.io/badge/Contact-Email-blue?style=flat" /></a>
-    <a href="https://github.com/ziya-tn?tab=repositories"><img src="https://img.shields.io/badge/All%20Repos-View%20on%20GitHub-2b2b2b" /></a>
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziya-tn&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ziya-tn&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ziya-tn/ziya-tn/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 
 ---
 
+## Something cool
 <p align="center">
-  <img src="/assets/dinosaur-game.gif" width="720" />
+  <img src="/assets/dinosaur-game.gif" width="100%" />
 </p>
