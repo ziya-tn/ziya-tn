@@ -102,7 +102,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ziya-tn&color=blueviolet&style=flat-square" alt="Profile views"/>
-  <img src="https://badgen.net/badge/🔥%20Days%20in%20a%20row/auto-updating/orange?style=flat-square" alt="Days Active"/>
+  <img src="https://raw.githubusercontent.com/ziya-tn/ziya-tn/main/days-active.svg" alt="Days Active"/>
 </p>
 
 ---
@@ -110,6 +110,27 @@
 <p align="center">
   <img src="/assets/fading-line.gif" width="100%"/>
 </p>
+
+## 🎧 Currently Listening
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31weqhovlklgd62imzflsxjvazem&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing"/>
+</p>
+
+---
+
+## 💬 Random Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Visitor Map
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=ziya-tn&countColor=%23263759" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/ziyatn.png" alt="TryHackMe Badge" />
